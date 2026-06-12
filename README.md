@@ -149,8 +149,6 @@ This is the **control layer** — the same concept used by frameworks like NVIDI
 ## 👨‍💻 Author
 
 **Saad Mandli**
-DecodeLabs Industrial Training Intern | Batch 2026
-AI Track — Project 1
 
 ---
 
